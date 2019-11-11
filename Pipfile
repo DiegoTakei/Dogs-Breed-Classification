@@ -11,6 +11,7 @@ pandas = "*"
 tensorflow = "*"
 jupyter = "*"
 pillow = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.6"
